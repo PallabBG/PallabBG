@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Pallab Banerjee</h1>
 
-<hr width="60%" style="border:1px solid #444;">
-
 <h3 align="center">BCA Student | Aspiring Full-Stack Developer | MERN Stack (Learning)</h3>
 <h3 align="center">HTML, CSS, JavaScript | Git & GitHub</h3>
 
@@ -65,7 +63,6 @@ Technologies
 </p>
 
 <h2 align="center">AI & Tools</h2>
-<hr width="60%" style="border:1px solid #444;">
 
 <p align="center">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
@@ -82,7 +79,7 @@ Technologies
 Connect With Me
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" style="margin-bottom:-10px">
 </h2>
-<hr width="60%" style="border:1px solid #444;">
+
 
 <p align="center">
 
