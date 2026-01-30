@@ -74,51 +74,15 @@ Technologies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<p align="center">
+## Connect With Me 🤝
 
-<a href="https://www.linkedin.com/in/pallab-banerjee-954213312" rel="nofollow" style="text-decoration:none;">
-<span>
-<img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50">
-</span>
-</a>
-
-<a href="https://x.com/PallabGames" rel="nofollow" style="text-decoration:none;">
-<span>
-<img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="50" width="50">
-</span>
-</a>
-
-<a href="https://www.facebook.com/share/16qo7yM6B6/" rel="nofollow" style="text-decoration:none;">
-<span>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50">
-</span>
-</a>
-
-<a href="https://www.instagram.com/pallab_banerjee2005" rel="nofollow" style="text-decoration:none;">
-<span>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50">
-</span>
-</a>
-
-<a href="https://youtube.com/@pallab-banerjee-b3d" rel="nofollow" style="text-decoration:none;">
-<span>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50">
-</span>
-</a>
-
-<a href="mailto:pallabbanerjee074@gmail.com" style="text-decoration:none;">
-<span>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Light.svg" height="50" width="50">
-</span>
-</a>
-
-<a href="https://github.com/PallabBG" rel="nofollow" style="text-decoration:none;">
-<span>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" height="50" width="50">
-</span>
-</a>
-
-</p>
+[![LinkedIn](https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png)](https://www.linkedin.com/in/pallab-banerjee-954213312)
+[![Twitter](https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png)](https://x.com/PallabGames)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/share/16qo7yM6B6/)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/pallab_banerjee2005)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://youtube.com/@pallab-banerjee-b3d)
+[![Gmail](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Light.svg)](mailto:pallabbanerjee074@gmail.com)
+[![GitHub](https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg)](https://github.com/PallabBG)
 
 
 
