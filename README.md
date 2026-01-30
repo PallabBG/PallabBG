@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
 
 <h2 align="center">Featured Projects 🚀</h2>
-<hr width="60%" style="border:1px solid #444;">
+
 
 <table align="center" style="border:none;">
 <tr>
