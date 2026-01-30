@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Featured Projects 🚀</h2>
 
 <table align="center" style="border: none;">
   <tr>
@@ -33,21 +33,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h2 align="center">
-  &lt; Technologies /&gt;
+  Technologies 
+  <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35px" style="vertical-align: middle;" />
 </h2>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,py,bootstrap,git,github,vscode,postman&perline=4&theme=dark" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,py,bootstrap,git,github,vscode,postman&perline=7&theme=dark" />
+  </a>
+</p>
 
 <h2 align="center">AI & Tools</h2>
 <p align="center">
@@ -63,27 +57,27 @@
 
 <h2 align="center">
   Connect With Me 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" style="margin-bottom: -15px" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" style="margin-bottom: -10px" />
 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pallab-banerjee-954213312">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://github.com/PallabBG">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
   <a href="https://www.instagram.com/pallab_banerjee2005?igsh=cHNhbWd1aXUyYTJq">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   <a href="https://www.facebook.com/share/16qo7yM6B6/">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="50" alt="facebook"/>
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
   </a>
   <a href="https://x.com/PallabGames?t=vh3tIEwGHLyfwCKdHLJKAg&s=09">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="50" alt="twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
   <a href="mailto:pallabbanerjee074@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
 
