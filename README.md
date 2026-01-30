@@ -85,7 +85,7 @@ Connect With Me
 [<img src="https://skillicons.dev/icons?i=instagram&perline=1" width="40"/>](https://www.instagram.com/pallab_banerjee2005)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>](https://www.facebook.com/share/16qo7yM6B6/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>](https://youtube.com/@pallab-banerjee-b3d)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40"/>](mailto:pallabbanerjee074@gmail.com)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>](mailto:pallabbanerjee074@gmail.com)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>](https://github.com/PallabBG)
 </p>
 
