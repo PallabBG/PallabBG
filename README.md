@@ -74,6 +74,10 @@ Technologies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<h2 align="center">
+Connect With Me
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" style="margin-bottom:-10px">
+</h2>
 <p align="center">
 
 [<img src="https://skillicons.dev/icons?i=linkedin&perline=1" width="40"/>](https://www.linkedin.com/in/pallab-banerjee-954213312)
@@ -82,7 +86,11 @@ Technologies
 [<img src="https://skillicons.dev/icons?i=gmail&perline=1" width="40"/>](mailto:pallabbanerjee074@gmail.com)
 [<img src="https://skillicons.dev/icons?i=github&perline=1" width="40"/>](https://github.com/PallabBG)
 
+[<img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>](https://www.facebook.com/share/16qo7yM6B6/)
+[<img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/>](https://youtube.com/@pallab-banerjee-b3d)
+
 </p>
+
 
 
 
