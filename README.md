@@ -74,35 +74,15 @@ Technologies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## Connect With Me 🤝
+<p align="center">
 
-<a href="https://www.linkedin.com/in/pallab-banerjee-954213312">
-  <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" width="42">
-</a>
+[<img src="https://skillicons.dev/icons?i=linkedin&perline=1" width="40"/>](https://www.linkedin.com/in/pallab-banerjee-954213312)
+[<img src="https://skillicons.dev/icons?i=twitter&perline=1" width="40"/>](https://x.com/PallabGames)
+[<img src="https://skillicons.dev/icons?i=instagram&perline=1" width="40"/>](https://www.instagram.com/pallab_banerjee2005)
+[<img src="https://skillicons.dev/icons?i=gmail&perline=1" width="40"/>](mailto:pallabbanerjee074@gmail.com)
+[<img src="https://skillicons.dev/icons?i=github&perline=1" width="40"/>](https://github.com/PallabBG)
 
-<a href="https://x.com/PallabGames">
-  <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" width="42">
-</a>
-
-<a href="https://www.facebook.com/share/16qo7yM6B6/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42">
-</a>
-
-<a href="https://www.instagram.com/pallab_banerjee2005">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42">
-</a>
-
-<a href="https://youtube.com/@pallab-banerjee-b3d">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="42">
-</a>
-
-<a href="mailto:pallabbanerjee074@gmail.com">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Light.svg" width="42">
-</a>
-
-<a href="https://github.com/PallabBG">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" width="42">
-</a>
+</p>
 
 
 
