@@ -21,7 +21,7 @@ https://pallab-banerjee.netlify.app/
 <p align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Web+%2B+AI+Project+Builder;Open+Source+Enthusiast;Always+Learning+New+Tech+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;Web+%2B+AI+Project+Builder;Always+Learning+New+Tech+🚀">
 
 </p>
 
