@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Pallab Banerjee</h1>
 
-<h3 align="center">BCA Student | Aspiring Full Stack Developer | Web + AI Enthusiast</h3>
-<h3 align="center">Based in West Bengal, India 🇮🇳</h3>
+<h3 align="center">BCA Student | Aspiring Full-Stack Developer | MERN Stack (Learning)</h3>
+<h3 align="center">HTML, CSS, JavaScript | Git & GitHub</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Web+%2B+AI+Project+Builder;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
@@ -17,40 +17,9 @@
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
 
-<h2 align="center">Technologies 💻</h2>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,py,bootstrap,git,github,vscode,postman&perline=4&theme=dark" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<h2 align="center">AI & Tools 🛠️</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AssemblyAI-1C1C1C?style=for-the-badge&logo=assemblyai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <h2 align="center">Featured Projects 🚀</h2>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
     <td align="center"><b>🌱 EcoScan AI</b></td>
     <td align="center"><b>🏥 MediConnect</b></td>
@@ -63,36 +32,58 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center">My Contribution Graph 🐍</h2>
-<img src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only" alt="snake" />
+<h2 align="center">
+  Technologies 
+  <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35px" style="vertical-align: middle;" />
+</h2>
 
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,py,bootstrap,git,github,vscode,postman&perline=7&theme=dark" />
+  </a>
+</p>
+
+<h2 align="center">AI & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AssemblyAI-1C1C1C?style=for-the-badge&logo=assemblyai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h2 align="center">
   Connect With Me 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40px" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" style="margin-bottom: -10px" />
 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pallab-banerjee-954213312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://github.com/PallabBG">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
   <a href="https://www.instagram.com/pallab_banerjee2005?igsh=cHNhbWd1aXUyYTJq">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   <a href="https://www.facebook.com/share/16qo7yM6B6/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
   </a>
   <a href="https://x.com/PallabGames?t=vh3tIEwGHLyfwCKdHLJKAg&s=09">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
   <a href="mailto:pallabbanerjee074@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only" alt="snake" width="100%" />
 
 <img src="https://camo.githubusercontent.com/1162ec13f46e2ad0f548cb9e37fff9e32e12c69b8745074b2a60fbf31b72e23e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f636f6c6f723d303a3134303864302c35303a3038363064302c3130303a303863346430266865696768743d3130302673656374696f6e3d666f6f74657226666f6e7453697a653d333026747970653d776176696e6726666f6e74436f6c6f723d666566656665" width="100%" />
 
