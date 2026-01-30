@@ -56,7 +56,6 @@
 Technologies 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px">
 </h2>
-<hr width="60%" style="border:1px solid #444;">
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,py,bootstrap,git,github,vscode,postman&perline=7&theme=dark"/>
