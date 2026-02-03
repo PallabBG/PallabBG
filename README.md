@@ -1,3 +1,5 @@
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=PallabBG&color=blue">
 <div align="center">
 
 <h1 align="center">Hi 👋, I'm Pallab Banerjee</h1>
